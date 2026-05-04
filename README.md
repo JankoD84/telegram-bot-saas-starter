@@ -103,7 +103,7 @@ You implement the business logic. The framework handles everything else.
 |---|---|---|
 | Solo | $149 | 1 project, 1 developer |
 
-👉 **[Purchase on Gumroad](https://jankodur.gumroad.com)**
+👉 **[Purchase on Gumroad](https://jankodur.gumroad.com/l/zyytre)**
 
 After purchase you receive:
 - Access to private source repository
